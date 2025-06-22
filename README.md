@@ -15,4 +15,5 @@ Hello! I'm Salma, a Computer Science and Artificial Intelligence student with a 
 Feel free to explore, learn, and connect!
 
  
-Let’s connect on [LinkedIn]((https://www.linkedin.com/in/salma-nour-eldeen-b16791266/))!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/salma-nour-eldeen-b16791266/)!
+
