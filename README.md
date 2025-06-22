@@ -14,6 +14,5 @@ Hello! I'm Salma, a Computer Science and Artificial Intelligence student with a 
 
 Feel free to explore, learn, and connect!
 
-> *“Code is a tool, but clarity is the mindset.”*
-
+ 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/Salma-Nour-Eldeen)!
