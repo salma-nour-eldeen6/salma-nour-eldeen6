@@ -17,3 +17,4 @@ Feel free to explore, learn, and connect!
  
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/salma-nour-eldeen-b16791266/)!
 
+![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salma-nour-eldeen&show_icons=true&theme=radical)
