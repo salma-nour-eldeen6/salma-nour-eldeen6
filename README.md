@@ -1,16 +1,19 @@
-## Hi there 👋
+#  Salma Nour-Eldeen
 
-<!--
-**salma-nour-eldeen6/salma-nour-eldeen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer | CS & AI Student | Passionate about Turning Data into Insight**
 
-Here are some ideas to get you started:
+Hello! I'm Salma, a Computer Science and Artificial Intelligence student with a strong interest in **data engineering** and solving real-world problems using **Python**, **SQL**, and modern data tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  What to expect from this space:
+- Personal projects and code experiments  
+- Practical applications of data concepts  
+- Notes from books and courses I’ve explored  
+- Clean, organized code focused on learning and growth
+
+Feel free to explore, learn, and connect!
+
+> *“Code is a tool, but clarity is the mindset.”*
+
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/Salma-Nour-Eldeen)!
