@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](SalmaNourEldeenDE.png)
+![Banner](SalmaNourEldeen.png)
 
 # Salma Nour-Eldeen
 
