@@ -1,14 +1,14 @@
 <div align="center">
-  
+
 ![Banner](SalmaNourEldeenDE.png)
 
 # Salma Nour-Eldeen
-  
+
 **Data Engineer | Building Scalable Data Pipelines**
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-nour-eldeen-b16791266/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmamahdynooreldeen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salma-nour-eldeen6)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/salma-nour-eldeen-b16791266/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:salmamahdynooreldeen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/salma-nour-eldeen6)
 
 </div>
 
@@ -16,87 +16,116 @@
 
 ### About Me
 
-I'm a Computer Science and Artificial Intelligence student at Helwan University, specializing in **Data Engineering**. My journey combines academic foundations with hands-on industry experience—from Samsung Innovation Campus' Big Data Engineering program to internships at the Egyptian Space Agency and Digital Egypt Pioneers Initiative.
+I'm a Computer Science and Artificial Intelligence student, specializing in **Data Engineering**.
 
-I'm passionate about building robust data pipelines, designing scalable architectures, and transforming raw data into actionable insights. This space reflects my commitment to clean, documented, and reproducible data engineering work.
+My work spans across data pipelines, distributed processing, and data architecture, with hands-on experience in both batch and streaming environments. I’m particularly interested in how data flows, scales, and supports real-world decision-making through modern cloud platforms.
+---
+
+### Tech Stack
+
+#### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+#### ⚙️ Data Engineering & Big Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=apachekafka" />
+  <img src="https://skillicons.dev/icons?i=apachehadoop" />
+  <img src="https://skillicons.dev/icons?i=apachespark" />
+  <img src="https://skillicons.dev/icons?i=flink" />
+</p>
+
+<p>
+  <!-- Tools without direct icons -->
+  <img src="https://img.shields.io/badge/Hive-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trino-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Iceberg-1F70C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge" />
+</p>
 
 ---
 
-### Technical Toolkit
+#### ☁️ Cloud & DevOps
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, SQL |
-| **Big Data & Streaming** | Apache Spark, Hadoop, Kafka, Flink, Hive, Trino |
-| **Cloud & DevOps** | Azure Data Factory, Azure Fabric, AWS, Docker, Git, GitHub Actions |
-| **Databases** | SQL Server, MariaDB, MongoDB, Snowflake, Delta Lake |
-| **Orchestration & ETL** | Apache Airflow, dbt, AirByte, ETL/ELT Design |
-| **Monitoring & Visualization** | Prometheus, Grafana, Power BI |
-| **Data Formats** | Parquet, Avro, CSV, JSON |
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Fabric-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge" />
+</p>
+
+---
+
+#### 🗄️ Databases & Data Modeling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Warehouse-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Star%20Schema-FFD43B?style=for-the-badge" />
+</p>
 
 ---
 
-### Featured Projects
+#### 🔄 Data Pipelines & Orchestration
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌍 Seismic Data Pipeline</h3>
-      <p>Real-time earthquake data ingestion using Kafka, Spark Structured Streaming, and Delta Lake. Orchestrated with Airflow, containerized with Docker, and monitored with Prometheus & Grafana.</p>
-      <p><strong>Tech:</strong> Kafka · Spark · Delta Lake · Airflow · Docker · Prometheus · Grafana</p>
-      <a href="https://github.com/salma-nour-eldeen6/Seismic-Data-Pipeline">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>✈️ AirSense: Global Air Travel Analysis</h3>
-      <p>End-to-end pipeline analyzing flight trends against COVID-19 and global events. Built with Azure Data Factory, Data Lake, and Power BI dashboards.</p>
-      <p><strong>Tech:</strong> Azure Data Factory · Data Lake · Power BI · ETL/ELT</p>
-      <a href="https://github.com/salma-nour-eldeen6/AirSense-Azure-Data-Factory">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏥 COVID-19 Data Pipeline</h3>
-      <p>Automated data pipeline processing COVID-19 data from multiple sources using Azure Data Factory with scheduling and monitoring.</p>
-      <p><strong>Tech:</strong> Azure Data Factory · Data Lake · SQL Database</p>
-      <a href="https://github.com/salma-nour-eldeen6/Covid19-Azure-data-factory">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📊 OLTP/OLAP Data Warehouse</h3>
-      <p>Star-schema data warehouse design with Hive, Spark, and Trino. Implemented real-time querying and performance optimization with Parquet/Avro.</p>
-      <p><strong>Tech:</strong> Hive · Spark · Trino · Parquet · Avro</p>
-      <a href="https://github.com/salma-nour-eldeen6/Hive-Spark-Trino-Data-Pipeline-for-OLAP-OLTP">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔄 Data Flow Pipeline</h3>
-      <p>End-to-end pipeline ingesting MariaDB data into HDFS with Sqoop, processing with Spark, and storing in Hive for analytics.</p>
-      <p><strong>Tech:</strong> MariaDB · HDFS · Spark · Hive · Sqoop</p>
-      <a href="https://github.com/salma-nour-eldeen6/Data-flow-Mariadb-HDFS-Spark-Hive-SIC">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>❄️ Snowflake + dbt Analytics</h3>
-      <p>End-to-end data engineering workflow with Snowflake and dbt, building analytics-ready fact and dimension tables for e-commerce data.</p>
-      <p><strong>Tech:</strong> Snowflake · dbt · SnowSQL</p>
-      <a href="https://github.com/salma-nour-eldeen6/SnowSQL-Snowflake-dbt">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=airflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airbyte-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-0A66C2?style=for-the-badge" />
+</p>
 
 ---
- 
+
+#### 📊 Monitoring & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" />
+</p>
+
+---
+
+#### 📦 Data Formats & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Parquet-50C878?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Quality-9C27B0?style=for-the-badge" />
+</p>
+
+
+
+---
+
+### Featured Work
+
+🔗 Check out my pinned repositories below to explore my data engineering projects, pipelines, and real-world implementations.
+
+---
 
 ### GitHub Activity
 
@@ -109,7 +138,7 @@ I'm passionate about building robust data pipelines, designing scalable architec
 
 ### Connect With Me
 
-I'm always open to discussing data engineering opportunities, collaborations, or just geeking out about scalable data architectures. Feel free to reach out!
+I'm always open to discussing data engineering opportunities, collaborations, or interesting ideas.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salma-nour-eldeen-b16791266/">
