@@ -77,7 +77,9 @@ My work spans across data pipelines, distributed processing, and data architectu
 <br/>
 
 <div align="center">
-  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salma-nour-eldeen6.GitHubActivity&color=58a6ff&style=for-the-badge&label=👁️+Profile+Views)](https://github.com/salma-nour-eldeen6)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salma-nour-eldeen6.GitHubActivity&color=58a6ff&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
