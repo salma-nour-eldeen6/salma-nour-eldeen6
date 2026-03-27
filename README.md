@@ -74,6 +74,12 @@ My work spans across data pipelines, distributed processing, and data architectu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salma-nour-eldeen6&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9" width="48%">
 </div>
 
+<br/>
+
+<div align="center">
+  [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salma-nour-eldeen6.GitHubActivity&color=58a6ff&style=for-the-badge&label=👁️+Profile+Views)](https://github.com/salma-nour-eldeen6)
+</div>
+
 ---
 
 ### Connect With Me
